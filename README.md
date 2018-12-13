@@ -10,9 +10,9 @@ When this file is run in R programming languague, it will generate the tidyDataS
 
 2. CodeBook.md
 
-This file describes the procedure of run_analysis.R about how it gets the input and converts into 
+This file describes the inout and output procedure of run_analysis.R, about how it gets 
 
-the output file, the tidyDataSet.txt
+the input and converts into the output file, the tidyDataSet.txt
 
 3. tidyDataSet.md
 
